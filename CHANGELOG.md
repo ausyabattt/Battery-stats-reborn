@@ -2,6 +2,10 @@ Battery stats module.
 
 ##Changelog:
 
+##v4.3.9: RUru Ничего нового, перенос и востановление репозитория
+EN: Nothing new: repository migration and restoration.
+
+
 ##v4.3.8: RU🇷🇺 : Вся логика, расчёты и прочее перенесено в lib.sh, из за чего вес файла стал меньше почти в 2 раза. Теперь подсчет времени с зарядки хранится не temp, а в папке самого модуля. /|\ EN🇬🇧 : All logic, calculations, and other things have been transferred to lib.sh, which is why the file weight has become almost 2 times less. Now the charging time is stored not temp, but in the folder of the module itself.
 
 
