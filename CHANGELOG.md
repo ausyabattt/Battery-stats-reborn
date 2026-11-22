@@ -1,6 +1,9 @@
 Battery stats module.
 
 ##Changelog:
+##v5.0.1: RU🇷🇺 : Обычный багфикс, ничего нового.
+EN🇬🇧 : small bugfix, Nothing new 
+
 ##v5.0.0: RU🇷🇺 : В этой версии очень много изменений, итак, во первых больше нет выбора bms или battery, данные подтягиваются с двух мест одновременно. Из основного и самого важного: модуль теперь поддерживает устройства со старым андроидом (тестировано на Android 6-9) при поддержке rtr456304(rtr456304 сделал модуль для старых устройств на основе этого модуля, за что ему большое спасибо), но главное не ставить версию для старых устройств имея новое устройство, ибо можно получить невозможный запуск системы. Выбор типа устройства осуществляется при установке модуля, изначально советую выбирать new/modern, если не будет работать или явно врать, то пробуйте вариант для старых устройств.
 
 EN🇬🇧 : There are a lot of changes in this version, so, first of all, there is no more choice of bms or battery, data is pulled from two places at the same time. From the main and most important: the module now supports devices with old android (tested on Android 6-9) with the support of rtr456304 (rtr456304 made a module for old devices on the basis of this module, for what he thanks a lot), but the main thing is not to put the version for old devices having a new device, because you can get an impossible start of the system. The choice of device type is made when installing the module, initially I advise you to choose new/modern, if it will not work or obviously lie, then try the version for old devices.
