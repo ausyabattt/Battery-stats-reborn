@@ -1,6 +1,9 @@
 Battery stats module.
 
 ##Changelog:
+##v5.0.2: —
+
+
 ##v5.0.1: RU🇷🇺 : Обычный багфикс, ничего нового.
 EN🇬🇧 : small bugfix, Nothing new 
 
